@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tci:home|Door43 (tci)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tci|d43-tci repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tci/archive/master.zip|d43-tci.zip]]
+
+**Recent Changes**
+{{changes>ns = tci}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tci|Ethnologue data]]
+
